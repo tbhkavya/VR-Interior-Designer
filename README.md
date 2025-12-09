@@ -4,13 +4,6 @@
 
 ---
 
-## 🎥 Demo Video
-(Upload your video to YouTube / Drive and add the link here)
-
-👉 **[Watch Demo Video](#)**
-
----
-
 ## 🖼 Screenshots
 
 <div align="center">
@@ -54,4 +47,5 @@
 | Programming | **C#** |
 | Models | Blender / Imported 3D assets |
 | Platform | VR (Quest/PCVR supported) |
+
 
