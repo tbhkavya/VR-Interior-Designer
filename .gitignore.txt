@@ -1,0 +1,36 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+.vs/
+.DS_Store
+.vscode/
+Assets/Editor/Migration/
+# Ignore Unity build files
+Build/
+Library/
+Temp/
+
+# Ignore Vuforia generated files
+.vuforia/
+
+# Ignore user-specific settings
+*.csproj
+*.sln
+*.user
